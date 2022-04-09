@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PalakArora03
 - 👀 I’m interested in your code life
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me with sharing your code life
 
 <!---
